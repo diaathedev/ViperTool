@@ -4,4 +4,6 @@
 Run this before using the tool 
 sudo apt install python3-pyqt5.qtwebengine
 
-the tool: <img width="1366" height="768" alt="Screenshot_٢٠٢٦١٠٠٦_١٢٣٦٢٩" src="https://github.com/user-attachments/assets/d367d615-bc63-4f08-a487-ee0e49d60e6c" />
+the tool: <img width="1366" height="768" alt="Screenshot_٢٠٢٦١٠٠٦_١٢٥٢٠٦" src="https://github.com/user-attachments/assets/ab8dbf95-66d6-4900-ada6-0e6776c0f223" />
+
+
